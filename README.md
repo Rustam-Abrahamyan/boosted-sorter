@@ -1,5 +1,11 @@
 # boosted-sorter
 
+<!-- prettier-ignore-start -->
+[![version][version-badge]][package]
+[![downloads][downloads-badge]][npmtrends]
+[![MIT License][license-badge]][license]
+<!-- prettier-ignore-end -->
+
 ### Getting Started
 
 Install with NPM:
@@ -93,3 +99,13 @@ boostedSorter({
 ## License
 
 Released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
+
+
+<!-- prettier-ignore-start -->
+[package]: https://www.npmjs.com/package/boosted-sorter
+[version-badge]: https://img.shields.io/npm/v/boosted-sorter.svg?style=flat-square
+[npmtrends]: https://www.npmtrends.com/boosted-sorter
+[downloads-badge]: https://img.shields.io/npm/dm/boosted-sorter.svg?style=flat-square
+[license]: https://github.com/rustam-abrahamyan/boosted-sorter/blob/master/LICENSE
+[license-badge]: https://img.shields.io/npm/l/boosted-sorter.svg?style=flat-square
+<!-- prettier-ignore-end -->
